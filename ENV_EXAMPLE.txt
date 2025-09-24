@@ -1,0 +1,4 @@
+Create .env.local (not committed) with:
+
+VITE_OWM_KEY=your_openweathermap_api_key
+
